@@ -6,4 +6,5 @@ Este proyecto contiene un dataset que intenta recopilar todos los barrios privad
 * Latitud
 * Longitud
 
-
+Fuente: http://www.guiacountry.com/countries/imagenes/listado.php
+Kaggle: https://www.kaggle.com/juanumusic/argentinas-private-neighborhoods
